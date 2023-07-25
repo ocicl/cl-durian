@@ -1,0 +1,10 @@
+* cl-durian
+
+Common Lisp library for dynamic HTML generation from list structures
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/GordianNaught/cl-durian.git   |
+| commit  | e632002  |
+| systems | cl-durian |
+|---------+-------------------------------------------|
+
